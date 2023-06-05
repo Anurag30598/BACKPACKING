@@ -19,7 +19,7 @@ const NavBar=()=> {
     return (
         <AppBar>
             <Container>
-                <Toolbar disablegutters>
+                <Toolbar disableGutters>
                     <Box sx={{ mr: 1 }}>
                         <IconButton size='large' color='inherit'>
                             <Menu />
