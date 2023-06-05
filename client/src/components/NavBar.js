@@ -34,7 +34,7 @@ const NavBar = () => {
             noWrap
             sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' } }}
           >
-            You Are Welcome
+            BACKPACKING
           </Typography>
           <Typography
             variant="h6"
@@ -42,7 +42,7 @@ const NavBar = () => {
             noWrap
             sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}
           >
-            YRW
+            BP
           </Typography>
           {!currentUser ? (
             <Button
